@@ -1,2 +1,4 @@
 First Line
 Second Line added by master
+New line added by feature branch
+Another line in feature branch
